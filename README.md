@@ -1,2 +1,2 @@
-# tms
-Ticket Management System Project 
+# Ticket Management System (TMS)
+The Ticket Management System (TMS) is a desktop application that will allow users to see and book tickets for various entertainment events such as concerts, sports games, theater performances, or other live shows. TMS offers a seamless and convenient way for users to access event information, select seating options, and book tickets. This system is designed to enhance the overall experience for event-goers while also simplifying event management for organizers.
